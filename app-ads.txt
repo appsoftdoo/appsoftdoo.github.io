@@ -16,6 +16,7 @@ appads.in, 106246, RESELLER
 appads.in, 107606, RESELLER
 appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11826, RESELLER
+appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13227, RESELLER
 appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 appnexus.com, 13297, RESELLER, f5ab79cb980f11d1
@@ -68,8 +69,10 @@ pubmatic.com, 160536, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 pubmatic.com, 160974, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161018, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161136, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
+Pubmatic.com, 161344, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161372, RESELLER, 5d62403b186f2ace
 pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
@@ -104,6 +107,7 @@ tremorhub.com, rwd19-1029104, RESELLER, 1a4e959a1b50034a
 unity.com, 1029104, DIRECT, 96cabb5fbdde37a7
 velismedia.com, 1137, RESELLER
 velismedia.com, 725, RESELLER
+video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
 video.unrulymedia.com, 3630748062, RESELLER, a670c89d4a324e47
 videoheroes.tv, 212499, RESELLER, 064bc410192443d8
